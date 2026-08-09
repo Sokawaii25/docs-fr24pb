@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-w1jfa0.indocuansite.online/sitemap.xml
